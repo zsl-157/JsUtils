@@ -14,4 +14,4 @@ function formatDate(value){
 				value += "日";
 				return value;
 			}
-console.log(formatDate("2021-12-15"))
+console.log(formatDate("2021-12-25"))
